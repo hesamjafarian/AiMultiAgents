@@ -12,7 +12,7 @@ code to run a game.  This file is divided into three sections:
 
   (ii)  The hidden secrets of pacman:
           This section contains all of the logic code that the pacman
-          environment uses to decide who can move where, who dies when
+      environment uses to decide who can move where, who dies when
           things collide, etc.  You shouldn't need to read this section
           of code, but you can if you want.
 
